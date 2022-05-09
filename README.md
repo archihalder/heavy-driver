@@ -15,12 +15,6 @@ The German Traffic Sign Benchmark is a multi-class, single-image classification 
 - More than 50,000 images in total
 - Large, lifelike database
 
-## Things to do
-
-- [ ] Get the accuracy score
-- [ ] Make front-end
-- [ ] Deploy on github
-
 ## Contributors
 
 - <a href="https://github.com/archihalder">Archi Halder</a>
